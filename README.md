@@ -1,6 +1,8 @@
 📊 Data Science Project – Play Store Apps Analysis
 🚀 Overview
 
+![banner](https://github.com/CodeRei067/data-science-2/blob/384cef9c039808ed37e1e941c5050d7f700b15c4/plstrdt.webp)
+
 Project ini adalah bagian dari perjalanan belajar Data Science saya menggunakan dataset aplikasi Google Play Store. Fokus utama adalah memahami pola aplikasi, rating, harga, dan faktor yang mempengaruhi popularitas aplikasi.
 
 📁 Dataset
